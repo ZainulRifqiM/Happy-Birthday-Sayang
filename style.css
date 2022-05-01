@@ -1,0 +1,90 @@
+.bg-1{
+    background: #ffeecc;
+}
+
+.bg-2 {
+    background-color: #BFAE99;
+}
+
+.bg-3 {
+    background-color: #FFF6E4;
+}
+
+.kotak {
+    min-height: 600px;
+    max-width: 400px;
+}
+
+.txt-pesan {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #555;
+    font-style: normal;
+    font-weight: 250;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.txt-secondary {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #666666;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+
+}
+
+.txt-thin{
+font-weight: 100;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+text-align: center;
+
+color: rgba(102, 102, 102, 0.45);
+}
+
+.txt-judul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 16px;
+    /* identical to box height */
+    color: #000000;
+}
+
+
+.img-cake {
+    width: 264px;
+    height: 264px;
+    left: 48px;
+    top: 164px;
+}
+
+.img-photo {
+    width: 320px;
+    height: 580px;
+}
+
+
+
+.my-text-primary {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.my-text-secondary {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #666666;
+}
+
